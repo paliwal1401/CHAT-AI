@@ -58,7 +58,7 @@ function App() {
   return (
     <div className="flex flex-col h-screen bg-gray-100">
       <header className="bg-indigo-600 text-white p-4 text-center font-bold text-xl">
-        Modern Chat AI
+        ChatBuddy
       </header>
 
       <main className="flex-1 overflow-y-auto p-4 space-y-4">
